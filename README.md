@@ -83,9 +83,4 @@ query({"inputs": "Astronaut riding a horse"}).then((response) => {
  - Gmail: nebeyoumusie@gmail.com
  - Telegram: [Nebeyou Musie](https://t.me/NebeyouMusie)
 
-## Contact
-
-- [@NebeyouMusie](https://github.com/NebeyouMusie)
-- nebeyoumusie@gmail.com
-
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/NebeyouMusie/Image-Generator)
