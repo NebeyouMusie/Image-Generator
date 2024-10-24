@@ -12,8 +12,7 @@
 
 ## Live Project
 
-- **URL:** [AI Image Generator](https://image-generator-delta-ochre.vercel.app/)
-- **Open Live Demo:** [![Open in browser](https://img.shields.io/badge/Open_in_browser-image-generator-delta-ochre_vercel_app_--_svg?style=for-the-badge&logo=Vercel)](https://image-generator-delta-ochre.vercel.app/)
+- **URL:** [Click Here](https://image-generator-delta-ochre.vercel.app/) to open the website.
 
 ## Technologies
 
