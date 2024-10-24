@@ -24,7 +24,7 @@
 
 ## Installation and Setup
 
-1. Clone the repository: `git clone https://github.com/NebeyouMusie/file-store.git`
+1. Clone the repository: `git clone https://github.com/NebeyouMusie/Image-Generator.git`
 2. Install dependencies: `npm install`
 3. Start the development server: `npm run dev`
 
